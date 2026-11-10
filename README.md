@@ -10,7 +10,7 @@ Platform Engineering · Agentic AI · Data Architecture
 
 ![En construction](https://img.shields.io/badge/Statut-en%20construction-F59E0B?style=flat-square&labelColor=1F2937)
 
-Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
+Profil et portfolio en cours de refonte. Le contenu évoluera régulièrement.
 
 </td>
 <td align="center">
