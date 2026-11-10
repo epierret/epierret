@@ -17,7 +17,7 @@
 
 <br>
 
-### Formation à valeur ajoutée
+### Formation 
 
 [![LFS169](https://img.shields.io/badge/LFS169-Introduction%20to%20GitOps-EF7B4D?style=flat-square&logo=git&logoColor=white)](https://www.credly.com/users/enrique-pierret)
 [![LFEL1009](https://img.shields.io/badge/LFEL1009-Getting%20Started%20with%20OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)](https://www.credly.com/users/enrique-pierret)
