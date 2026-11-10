@@ -1,6 +1,6 @@
 <table>
-  <tr>
-    <td colspan="2" rowspan="2" align="center">
+<tr>
+<td colspan="2" rowspan="2" align="center">
 
 ### Enrique Pierret
 
@@ -12,8 +12,8 @@ Platform Engineering · Agentic AI · Data Architecture
 
 Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
 
-    </td>
-    <td align="center">
+</td>
+<td align="center">
 
 #### Certifications
 
@@ -22,19 +22,19 @@ Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
 [![LFEL1012](https://img.shields.io/badge/LFEL1012-Secure%20AI%2FML%20Development-5A3D7A?style=flat-square)](https://www.credly.com/users/enrique-pierret)
 [![Agentic AI on AWS](https://img.shields.io/badge/BeSA-Agentic%20AI%20on%20AWS-8A4B12?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/users/enrique-pierret)
 
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
 
 #### Diplôme
 
 ![Liora](https://img.shields.io/badge/Liora-Architecte%20DevOps%20Data%20Kubernetes-1F5F4A?style=flat-square)
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 #### Formation à valeur ajoutée
 
@@ -44,8 +44,8 @@ Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
 [![Isovalent](https://img.shields.io/badge/Isovalent-Platform%20Engineer-2D3748?style=flat-square)](https://www.credly.com/users/enrique-pierret)
 [![LFS183](https://img.shields.io/badge/LFS183-Zero%20Trust-0E7490?style=flat-square)](https://www.credly.com/users/enrique-pierret)
 
-    </td>
-    <td align="center">
+</td>
+<td align="center">
 
 #### Contact
 
@@ -53,6 +53,6 @@ Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
 [![Portfolio](https://img.shields.io/badge/Portfolio-enrique--pierret.com-0B6E5A?style=flat-square)](https://enrique-pierret.com)
 [![Medium](https://img.shields.io/badge/Medium-pierretenrique-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pierretenrique)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
