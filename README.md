@@ -36,8 +36,7 @@ Profil et portfolio en cours de refonte. Le contenu évolue régulièrement.
 <tr>
 <td colspan="2" align="center">
 
-#### Formation à valeur ajoutée
-
+#### Formation
 [![LFS169](https://img.shields.io/badge/LFS169-GitOps-EF7B4D?style=flat-square&logo=git&logoColor=white)](https://www.credly.com/users/enrique-pierret)
 [![LFEL1009](https://img.shields.io/badge/LFEL1009-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)](https://www.credly.com/users/enrique-pierret)
 [![Cilium](https://img.shields.io/badge/Isovalent-Cilium%20Gateway%20API-F8C517?style=flat-square&logo=cilium&logoColor=black)](https://www.credly.com/users/enrique-pierret)
